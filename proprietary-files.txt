@@ -6,12 +6,6 @@ vendor/etc/acdbdata/Sony_tama_Speaker_cal.acdb
 vendor/lib64/libacdbloader.so
 vendor/lib/libacdbloader.so
 
-# Bluetooth
-vendor/lib64/hw/android.hardware.bluetooth@1.0-impl-qti.so
-vendor/lib64/libbtnv.so
-vendor/lib/hw/android.hardware.bluetooth@1.0-impl-qti.so
-vendor/lib/libbtnv.so
-
 # Display calibration
 vendor/etc/qdcm_calib_data_3.xml
 vendor/etc/qdcm_calib_data_7.xml
